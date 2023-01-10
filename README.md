@@ -8,3 +8,6 @@ Firstly, they’d like keywords to be extracted from headlines of the article. S
 they would need to determine the sentiment of the news articles. The data is in an 
 excel sheet and they would like to see a dashboard outlying sentiment, top articles etc.
 Date File: (articles.xlsx) – 4.7 MB file
+
+
+link to blogme clean excel sheet: https://1drv.ms/x/s!AqXe0oubLSz3zmrgRWGyTgmteHMI?e=jw5swD
